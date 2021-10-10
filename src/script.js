@@ -38,9 +38,6 @@ function gameLoop(timestamp) {
     ball.draw(ctx);
 
 
-    
-
-
     requestAnimationFrame(gameLoop);
 }
 
