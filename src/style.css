@@ -1,3 +1,12 @@
 #gameScreen {
     border: 1px solid black;
 }
+
+
+#img_ball {
+    display: none;
+}
+
+html {
+    font-family: 'Atkinson Hyperlegible';
+}
