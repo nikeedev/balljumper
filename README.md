@@ -1,6 +1,11 @@
 # Ball Jumper
 
-Visit: https://nikegamerjjjj.github.io/balljumper/ to play game
+Visit: https://nikegamerjjjj.github.io/balljumper/ to play the game.
 
 
-***Game is under development, and it will be not stable or either playable!***
+---
+
+*****Play Ball Jumper using Left Button(<-)and Right Button(->)!*****
+
+
+### Game is under development, and it will be not stable or either playable!
