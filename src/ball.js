@@ -13,7 +13,7 @@ export default class Ball {
 
         this.game = game;
 
-        this.position = {x: 10, y: 400};
+        this.position = {x: 312.5, y: 400};
         this.speed = {x: 4, y: -2};
         this.size = 16;
     }
