@@ -1,6 +1,6 @@
 # Ball Jumper
 
-Visit: https://nikegamerjjjj.github.io/balljumper/ to play the game.
+Visit: https://nikeedev.github.io/balljumper/ to play the game.
 
 
 ---
